@@ -3,7 +3,7 @@ export function Experience() {
     {
       title: "Desenvolvedor Front-end",
       company: "TOT Educação Corporativa",
-      period: "Atual",
+      period: "Nov/2025 - Jan/2026",
       current: true,
       description: [
         "Desenvolvimento de cursos corporativos interativos",
